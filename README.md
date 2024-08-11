@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I’m currently pursuing Master Of Applied Computing (AI Specialization) at University Of Windsor<br>👯 I’m looking to collaborate on Full Stack projects<br>🌱 I’m currently learning Machine Learning and AI<br>💬 Ask me about Flutter and Backend Development<br>🎮 In my spare time, I’m basically a professional button masher.
+📚 I’m currently pursuing Master Of Applied Computing (AI Specialization) at University Of Windsor<br>👯 I’m looking to collaborate on Full Stack projects<br>🌱 I’m currently learning Machine Learning and AI<br>💬 Ask me about Flutter and Backend Development<br>🎮 In my spare time, I’m basically a professional button smasher.
 
 
 ## 🌐 Socials:
