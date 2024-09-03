@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sharansukesh1003&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharansukesh1003&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- LEETCODE STATS -->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/cheapCode)](https://leetcode.com/cheapCode)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=sharansukesh1003&icon=0&color=11)](https://visitcount.itsvg.in)
 
